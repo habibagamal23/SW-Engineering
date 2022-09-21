@@ -1,0 +1,52 @@
+what is maven?
+Build automation tool 
+Maven is a build automation tool used primarily for Java projects. 
+Maven can also be used to build and manage projects written in C#, Ruby, Scala, and other languages.
+_______________________________________________________________________________________________________________________________
+ source control :
+ #1) GitHub
+#2) Git
+#3) GitLab
+#4) Apache Subversion
+#5) CVS
+#6) Mercurial
+#7) Monotone
+#8) Bitbucket Server
+#9) Team Foundation Server
+#10) Bazaar
+
+Despite the availability of other version control languages like Mercurial (Hg) and Subversion (SVN),he best-fit Github alternatives right .
+
+1-Bitbucket: Bitbucket is a fan favorite on Quora and Reddit. You can connect up to five users to the platform for free, which is great if you want to try it out before you purchase. As part of the Atlassian software family, Bitbucket lets you integrate your other Atlassian products like Jira, Bamboo, and HipChat, and communicates well with all of these. Features include pull requests, code branches, and in-line commenting for discussions. Bitbucket deploys in the cloud, on a local server, or your company’s data center, depending on your security needs.
+
+2-GitLab : GitLab includes lots of features in its DVCS, including an integrated project wiki and a dedicated project website. GitLab’s continuous integration (CI) capabilities automate the testing and delivery of your code, which means you can get more done and spend less time waiting for tests to pass. Gain access to all points of your project with issues, a code viewer, pull requests and merge conflict resolution 3- FogBugz Kiln/DevHub : Kiln code management software is based on the Mercurial version control language, but it also supports Git. With its Hg roots, Kiln and its surrounding applications are very Windows-focused, but also great for Python developers. Kiln is part of the bigger FogBugz DevHub platform that includes distributed version control, but also bug tracking and project management tools. One of the best-loved features of Kiln is that background data for code is built right into commits for review.
+
+3-Beanstalk: This browser and cloud-based code management software lets you code, commit, review, and deploy directly from your browser, which means you can work from anywhere in the world. Git and SVN are both supported, and Beanstalk integrates with online messaging programs and email to help the team stay involved in all code decisions and updates. Code review includes issues and discussions. Analytics with statistics on commits are built in. Beanstalk also emphasizes security, with full bank-level encryption, two-factor authentication, and strong password enforcement. Test it out on a free trial or Beanstalk’s monthly subscription plan.
+
+4-SourceForge: SourceForge feature dashboardIt’s worth noting that SourceForce predated GitHub and many other open-source alternatives for version control. The company went through some malware trouble in 2015, but was purchased and on its way to good health as of January 2016. SourceForge used to be the go-to for free and open source software code repositories. The company now offers multi-factor authorization, which is in line with their move toward stricter security. Features include issue tracking, discussions, and a built-in code directory.
+
+5- Apache Allura : This free solution provides issue tracking, code comments with markup, and lets you commit your changes to a Mongo database. Apache supports Git, Hg and Subversion (SVN) languages. Keep track of your changes with color coded diffs, and stay organized with commit linking to other issues and tickets. Build internal wiki pages for documentation and app user needs. Artifacts are searchable, and you can easily connect tools
+
+6-Cloud Source by Google: After the demise of Google Code, Google’s Git version control moved to the Google Cloud platform. Cloud Source connects to GitHub, Bitbucket, other repositories if you want, but you can also use Google’s own repositories. These offer storage across Google infrastructure, which means your code and apps are safe. Search in your browser for all of your connected code, and use cloud diagnostics to investigate issues while your code runs in the background. The Stackdriver Debugger lets you view side-by-side debugging with any application.
+
+7- AWS CodeCommit: AWS CodeCommit user dashboard The AWS CodeCommit platform hosts secure, private Git repositories. This option is especially helpful if you’re using other AWS products, as they will easily connect. You can use CodeCommit with your current Git tools, but your code will be hosted in the secure AWS environment. Lots of plugins from AWS partners give you control over your software stack. There is no hardware to purchase, so the AWS environment is scalable and secure.
+
+8- GitKraken: GitKracken dashboard GitKraken is known for its beautiful interface, its focus on speed, and ease of use for Git. The purpose of the platform is to save you time building and testing. They include an undo button to roll back any mistakes, which can be incredibly handy. The free version is available to companies under 20 employees or non-profit/educational shops, but the Pro version offers several exclusive features, including multiple profile support so you can separate your projects. GitKraken works across Windows, Mac, and Linux machines
+
+Source control tools include:
+
+Git Perforce Helix Core Subversion ClearCase Team Foundation Server Mercurial
+
+
+
+________________________________________________________________________________________________________________________________________
+https://docs.dataops.live/docs/about-dataops/architecture/
+
+
+
+
+
+
+
+
+
